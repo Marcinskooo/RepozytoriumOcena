@@ -1,1 +1,1 @@
-Zawartosc plikuGalaz1.txt
+Zawartosc inna dla  plikuGalaz1.txt
